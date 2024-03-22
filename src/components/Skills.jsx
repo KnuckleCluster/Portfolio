@@ -8,27 +8,27 @@ function Skills() {
           <br /> <br />
           <div className="flex justify-center">
             <div className="flex flex-col items-center m-[20px] ">
-              <img src="../../dist/img/MERN.png" alt="MERN Stack" className="w-[230px] h-[100px]" />
+              <img src="/img/MERN.png" alt="MERN Stack" className="w-[230px] h-[100px]" />
               <br />
               <p className="text-white">MERN Stack</p>
             </div>
             <div className="flex flex-col items-center m-[20px]">
-              <img src="../../dist/img/js.png" alt="JavaScript" className="w-[100px] h-[100px]" />
+              <img src="/img/js.png" alt="JavaScript" className="w-[100px] h-[100px]" />
               <br />
               <p className="text-white">JavaScript</p>
             </div>
             <div className="flex flex-col items-center m-[20px]">
-              <img src="../../dist/img/python.png" alt="Python" className="w-[100px] h-[100px]" />
+              <img src="/img/python.png" alt="Python" className="w-[100px] h-[100px]" />
               <br />
               <p className="text-white">Python</p>
             </div>
             <div className="flex flex-col items-center m-[20px]">
-              <img src="../../dist/img/tailwind.png" alt="TailwindCSS" className="w-[100px] h-[100px]" />
+              <img src="/img/tailwind.png" alt="TailwindCSS" className="w-[100px] h-[100px]" />
               <br />
               <p className="text-white">TailwindCSS</p>
             </div>
             <div className="flex flex-col items-center m-[20px]">
-              <img src="../../dist/img/mysql.png" alt="MySQL" className="w-[140px] h-[100px]" />
+              <img src="/img/mysql.png" alt="MySQL" className="w-[140px] h-[100px]" />
               <br />
               <p className="text-white">MySQL</p>
             </div>

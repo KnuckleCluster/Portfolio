@@ -9,7 +9,7 @@ function About() {
                         <h1 className="text-[30px] bg-transparent font-bold text-green-400">Welcome to my portfolio!</h1>
                         <br />
                         <div className="flex justify-center items-center bg-transparent">
-                            <img className="w-[250px] h-[250px] bg-transparent" src="../../dist/img/me.png" alt="photo" />
+                            <img className="w-[250px] h-[250px] bg-transparent" src="/img/me.png" alt="photo" />
                             <br /> <br />
                         </div>
                         <br />
