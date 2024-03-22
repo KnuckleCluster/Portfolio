@@ -23,7 +23,7 @@ function Contacts() {
               </div>
               {/* Third row */}
               <div className="flex items-center">
-                <img src="../../dist/img/loc.png" alt="Location" className="w-10 h-10 mr-2" />
+                <img src="../../dist/img/loc2.png" alt="Location" className="w-10 h-10 mr-2" />
                 <p className="text-white">Dasmariñas City, Cavite, Philippines</p>
               </div>
             </div>
