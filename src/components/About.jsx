@@ -19,13 +19,16 @@ function About() {
                         <br /><br /> <br /><br />
                         <div className="w-[800px] text-left">
                             <p>
-                                Hey there! I'm Eugene Kyle Anarna, a 24-year-old software engineer with a passion for crafting digital experiences.
+                                Hey there! I'm Eugene Kyle Anarna, a software engineer passionate about crafting digital experiences.
                                 <br /> <br />
-                                My journey into the world of technology started with a fascination for the MERN Stack, which quickly expanded to encompass languages like JavaScript and Python, and styling with TailwindCSS. Dive a little deeper, and you'll find me navigating the depths of mySQL databases with ease.
+                                I specialize in the MERN Stack and love working with JavaScript, Python, and TailwindCSS. I'm also comfortable diving into mySQL databases.
                                 <br /> <br />
-                                Beyond coding, I've dabbled in System Administration and Network Management, rounding out my skill set for a holistic understanding of tech infrastructure. I thrive on challenges, constantly pushing myself to learn and adapt, whether it's mastering a new framework or troubleshooting complex systems.
+                                Beyond coding, I've explored System Administration and Network Management, rounding out my skill set for a holistic understanding of tech infrastructure.
                                 <br /> <br />
-                                Driven by curiosity and a hunger for knowledge, I'm always on the lookout for the next big thing in tech. When I'm not coding, you'll likely find me exploring the latest advancements or tinkering with side projects.</p>
+                                I thrive on challenges, constantly learning and adapting. Whether it's mastering a new framework or troubleshooting complex systems, I'm up for it.
+                                <br /> <br />
+                                Driven by curiosity, I'm always on the lookout for the next big thing in tech. When I'm not coding, I enjoy exploring the latest advancements or tinkering with side projects.
+                                </p>
                                 <br />
                                 <p className="text-center text-[20px] text-bold text-green-400">Let's connect and build something awesome together!</p>
                         </div>

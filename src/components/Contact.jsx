@@ -14,7 +14,7 @@ function Contacts() {
               {/* First row */}
               <div className="flex items-center mb-[40px] mt-[25px] ">
                 <img src="img/phone.png" alt="Phone" className="w-10 h-10 mr-2" />
-                <p className="text-white">+639217514369</p>
+                <p className="text-white">+63 976 414 3064</p>
               </div>
               {/* Second row */}
               <div className="flex items-center mb-[40px]">
