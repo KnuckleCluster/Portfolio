@@ -30,7 +30,6 @@ function Comp() {
         >
           <button onClick={() => scrollToSection('about')} className="block mb-4 p-2 mt-[20px] bg-blue-900 border border-green-400 hover:text-green-400 hover:bg-blue-950 hover:border hover:border-green-600 w-full underline">About</button>
           <button onClick={() => scrollToSection('skills')} className="block mb-4 p-2 mt-[20px] bg-blue-900 border border-green-400 hover:text-green-400 hover:bg-blue-950 hover:border hover:border-green-600 w-full underline">Skills</button>
-          <button onClick={() => scrollToSection('portfolio')} className="block mb-4 p-2 mt-[20px] bg-blue-900 border border-green-400 hover:text-green-400 hover:bg-blue-950 hover:border hover:border-green-600 w-full underline">Projects</button>
           <button onClick={() => scrollToSection('contact')} className="block mb-4 p-2 mt-[20px] bg-blue-900 border border-green-400 hover:text-green-400 hover:bg-blue-950 hover:border hover:border-green-600 w-full underline">Contact</button>
         </nav>
       )}
