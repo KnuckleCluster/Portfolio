@@ -17,7 +17,7 @@ function Contact() {
                             {/* Second row */}
                             <div className="flex items-center mb-[40px]">
                                 <img src="img/email.png" alt="Email" className="w-10 h-10 mr-2" />
-                                <p className="text-white">kyleanarna@gmail.com</p>
+                                <p className="text-white">kyleanarna53@gmail.com</p>
                             </div>
                             {/* Third row */}
                             <div className="flex items-center">
