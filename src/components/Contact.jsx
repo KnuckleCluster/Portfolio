@@ -5,7 +5,7 @@ function Contact() {
               <hr />
               <h1 className='text-center text-[35px] text-green-400'>Contact me!</h1>
               <hr />
-              <div className='flex justify-center items-center text-[15px]'>
+              <div className='flex justify-center items-center text-[15px]'> 
                   <div className="flex w-[650px]">
                       {/* First column */}
                       <div className="flex flex-col w-[500px] p-4">
